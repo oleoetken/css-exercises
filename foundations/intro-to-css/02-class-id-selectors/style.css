@@ -1,0 +1,25 @@
+.odd{
+    background-color: rgb(250, 156, 170);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.adjust {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+/*  I could've given 'four' apart from the id the class 'adjust'
+*   and therefore I wouldn't need to state the font-size of 24px in #four again
+*
+*
+*/ 
